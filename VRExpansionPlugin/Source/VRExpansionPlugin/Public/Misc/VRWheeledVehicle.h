@@ -18,6 +18,7 @@
 #include "GameFramework/PlayerController.h"
 #include "VRWheeledVehicle.generated.h"
 
+#pragma warning (disable: 4996)
 
 /**
 * This override of the base wheeled vehicle allows for dual pawn usage in engine.
